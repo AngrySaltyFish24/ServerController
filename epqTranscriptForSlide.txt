@@ -1,0 +1,20 @@
+
+# Section Introduction
+
+## The problem - Slide 1
+
+I have a file server at home that I use to store information like work and to
+back up my system. The problem is that for me to access this server I need
+the server to be turned on. The obvious solution to this is to keep the server
+permentaly on. This however raises other problems as I would likely only need
+to access the server for a short period of time meaning I would be wasting electricity
+by keeping it always turned on, the server is also very noisy so this is not a good
+solution to the problem. A better resolution to this would be to have the ability
+to turn the server on and off remotely and this is essentially the aim of this project.
+
+## Checklist - Slide 2
+
+Now that I have a clear aim I would like to break this problem into smaller ones to
+help me acheive the characteristics that I want. The first I talk about in the previous
+slide and is the main goal of this project. The second one is important as I want to
+reduce the cost of running the device as much as possible. The next item 
